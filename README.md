@@ -1,5 +1,7 @@
 # TinDog Project
 
+this website is created using bootstrap and contains only frontend. 
+
 HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
 https://github.com/appbrewery/tindog/blob/main/Bootstrap-snippets.pdf
 
